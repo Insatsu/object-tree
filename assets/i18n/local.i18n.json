@@ -1,0 +1,73 @@
+{
+    "global_error": {
+        "root_directory_not_exist": "Root directory doesn't exist"
+    },
+    "bottom_navigation": {
+        "home": "Browser",
+        "tree": "Tree"
+    },
+    "headers": {
+        "browser": "Browser",
+        "tree": "Tree",
+        "edit_note": "Edit",
+        "create_note": "Create"
+    },
+    "browser_drawer": {
+        "header": "Actions",
+        "change_theme_dark": "Change to dark theme",
+        "change_theme_ligth": "Change to light theme",
+        "hint_delete_path": "Delete directory path",
+        "hint_edit_path": "Edit directory path",
+        "hint_create_note": "Create note",
+        "hint_create_folder": "Create folder"
+    },
+    "browser_content": {
+        "loading": "Loading",
+        "empty": "Empty",
+        "plug": "Choose the directory",
+        "empty_folder": "(Folder is empty)",
+        "dialog_delete_title": "Are you sure?",
+        "dialog_delete_cancel": "No",
+        "dialog_delete_confirm": "Delete anyway",
+        "dublicate_item_in_target_folder": "There is an object with the same name in the target folder",
+        "dublicate_item_title": "Dublicate title",
+        "ban_symbol_item_title": "Title contains bad symbols",
+        "menu_delete": "Delete",
+        "menu_rename": "Rename",
+        "menu_create_note": "Create a note",
+        "menu_create_folder": "Create a folder"
+    },
+    "note_tree_drawer": {
+        "search_menu": "Search and choose",
+        "show_all": "Show global tree",
+        "history": "Previously selected",
+        "history_empty": "There's nothing"
+    },
+    "note_tree": {
+        "loading": "Loading",
+        "error_on_load_tree": "There was a problem with loading the tree"
+    },
+    "note_drawer": {
+        "header": "Actions",
+        "backLinked_notes": "Backlinked notes",
+        "forwardLink_notes": "Link notes",
+        "add_forwardLinked_note": "Link note",
+        "dialog_delete_title": "Are you sure?",
+        "dialog_delete_cancel": "No",
+        "dialog_delete_confirm": "Delete anyway",
+        "searh_snackbar_sccessfuly": "Successfuly appended",
+        "searh_snackbar_error": "Some problem...",
+        "show_local_tree": "Show local tree"
+    },
+    "note_content": {
+        "title_snackbar_error": "Some problem...",
+        "title_empty": "Title shoud not be empty",
+        "title_snackbar_dublicate": "This name already exist",
+        "ban_symbol_item_title": "Title contains bad symbols"
+    },
+    "start": {
+        "choose_directory": "Choose a directory where notes will be saved to begining use app",
+        "choose_directory_btn": "Choose a directory",
+        "choose_directory_history": "Or choose one of the previoust paths"
+    }
+}

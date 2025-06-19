@@ -1,0 +1,73 @@
+{
+    "global_error": {
+        "root_directory_not_exist": "Корневой директории не существует"
+    },
+    "bottom_navigation": {
+        "home": "Главная",
+        "tree": "Древо"
+    },
+    "headers": {
+        "browser": "Главная",
+        "tree": "Древо",
+        "edit_note": "Редактирование",
+        "create_note": "Создание"
+    },
+    "browser_drawer": {
+        "header": "Действия",
+        "change_theme_dark": "Сменить на тёмную тему",
+        "change_theme_ligth": "Сменить на светлую тему",
+        "hint_delete_path": "Удалить путь директории",
+        "hint_edit_path": "Изменить путь директории",
+        "hint_create_note": "Создать объект",
+        "hint_create_folder": "Создать папку"
+    },
+    "browser_content": {
+        "loading": "Загрузка",
+        "empty": "Пусто",
+        "plug": "Выберите директорию",
+        "empty_folder": "(Папка пуста)",
+        "dialog_delete_title": "Вы уверены?",
+        "dialog_delete_cancel": "Нет",
+        "dialog_delete_confirm": "Удалить",
+        "dublicate_item_in_target_folder": "Объект с таким названием уже есть в целовом месте",
+        "dublicate_item_title": "Объект с таким названием уже есть",
+        "ban_symbol_item_title": "Название содержит запрещённые символы",
+        "menu_delete": "Удалить",
+        "menu_rename": "Переименовать",
+        "menu_create_note": "Создать объект",
+        "menu_create_folder": "Создать папку"
+    },
+    "note_tree_drawer": {
+        "search_menu": "Найти и выбрать",
+        "show_all": "Отобразить глобальное древо",
+        "history": "Ранее выбранные",
+        "history_empty": "Пусто"
+    },
+    "note_tree": {
+        "loading": "Загрузка...",
+        "error_on_load_tree": "Возникла проблема при загрузке древа"
+    },
+    "note_drawer": {
+        "header": "Действия",
+        "backLinked_notes": "Связанные объекты",
+        "forwardLink_notes": "Привязанные объекты",
+        "add_forwardLinked_note": "Привязаться к объекту",
+        "dialog_delete_title": "Вы уверены?",
+        "dialog_delete_cancel": "Нет",
+        "dialog_delete_confirm": "Удалить",
+        "searh_snackbar_sccessfuly": "Успешно добавлено",
+        "searh_snackbar_error": "Возникла проблема...",
+        "show_local_tree": "Отобразить локальное древо"
+    },
+    "note_content": {
+        "title_snackbar_error": "Возникла проблема",
+        "title_empty": "Название не должно быть пустым",
+        "title_snackbar_dublicate": "Данное название уже используется",
+        "ban_symbol_item_title": "Название содержит запрещённые символы"
+    },
+    "start": {
+        "choose_directory": "Выберите директорию, где будут храниться объекты",
+        "choose_directory_btn": "Выбрать директорию",
+        "choose_directory_history": "Или выберите один из предыдущих путей"
+    }
+}
